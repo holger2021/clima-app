@@ -1,4 +1,4 @@
-#Clima App
+# Clima App
 ***
 Aplicación que se encarga de solicitar un lugar/ciudad y desplegar 
 la información de los lugares que coincidan con lo digitado, para mostrar
